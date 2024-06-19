@@ -1,0 +1,8 @@
+Regras do desafio:
+
+-- Estilizar um título com CSS externo --
+1- Criar pelo menos um h4, em uma página html;
+2- Criar um arquivo css chamado de "titles.css", dentro de uma 
+pasta chamda "css";
+3- Conectar o titles.css no html.
+4- Estilizar a teg h4.
